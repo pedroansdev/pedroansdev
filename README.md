@@ -9,7 +9,7 @@
 </div>
 
 <div style:"display:inline_block"><br>
-  <a href="https://www.w3schools.com/python/">
+  <a href="https://www.w3schools.com/python/" target="_blank">
   <img align="center" alt="Pedro-Python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a> 
   -
