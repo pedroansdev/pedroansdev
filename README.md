@@ -9,13 +9,21 @@
 </div>
 
 <div style:"display:inline_block"><br>
-  <a href="https://www.w3schools.com/python/" target="_parent">
+  <a href="https://www.w3schools.com/python/" target="_blank">
   <img align="center" alt="Pedro-Python" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a> 
   -
-  <img align="center" alt="Pedro-HTML" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> - 
-  <img align="center" alt="Pedro-CSS" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> - 
-  <img align="center" alt="Pedro-SQL" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <a href="https://www.w3schools.com/html/" target="_blank">
+  <img align="center" alt="Pedro-HTML" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  </a>
+  - 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+  <img align="center" alt="Pedro-CSS" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  </a>
+  -
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+  <img align="center" alt="Pedro-SQL" width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </a>
 </div>
 
 ##
