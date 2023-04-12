@@ -2,7 +2,7 @@
 
 <p align="center"> Eu sou o Pedro, e estou cursando Desenvolvimento de Software Multiplataformas na FATEC Jessen Vidal, atualmente estou no 1º Semestre </p> 
 
-<p> As linguagens que estou aprendendo estão listadas abaixo do GitHub Status, e os programas que utilizo são: Visual Studio Code, brModelo e a versão do python que eu utilizo é o Python 3.11.<br>Também estou aprendendo sobre redes e Sistemas Operacionais, utilizando o prompt de comando do windows e aprendendo também conexão por SSH com servidores em nuvem, na AWS. </p>
+<p> As linguagens que estou aprendendo estão listadas abaixo do GitHub Status, e os programas que utilizo são: Visual Studio Code, brModelo e a versão do python que eu utilizo é o Python 3.11.2 <br>Também estou aprendendo sobre redes e Sistemas Operacionais, utilizando o prompt de comando do windows e aprendendo também conexões SSH e FTP com servidores em nuvem, na AWS. O servidor que atualmente utilizo é o Ubuntu Server 22.04 </p>
 
 ##
 
