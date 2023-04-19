@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/pedroansdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroansdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroansdev&layout=compact&langs_count=16&theme=dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroansdev&theme=dark&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&currStreakLabel=EB8C0F&sideLabels=EB5454" alt="pedroansdev" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroansdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=EB5454&icon_color=EB8C0F" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroansdev&layout=compact&langs_count=16&theme=dark&title_color=EB5454" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroansdev&theme=dark&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&currStreakLabel=EB8C0F&sideLabels=EB5454&card_width=885&fire=EB5454&currStreakNum=EB8C0F" alt="pedroansdev" />
   </a>
 </div>
 
