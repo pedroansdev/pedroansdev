@@ -10,7 +10,7 @@
   <a href="https://github.com/pedroansdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroansdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroansdev&layout=compact&langs_count=16&theme=dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroansdev&theme=dark" alt="pedroansdev" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroansdev&theme=dark&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&currStreakLabel=EB8C0F&sideLabels=EB5454" alt="pedroansdev" />
   </a>
 </div>
 
