@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroansdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=EB5454&icon_color=EB8C0F" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroansdev&layout=compact&langs_count=16&theme=dark&title_color=EB5454" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedroansdev&theme=dark&date_format=j%20M%5B%20Y%5D&sideNums=EB5454&currStreakLabel=EB8C0F&sideLabels=EB5454&card_width=885&fire=EB5454&currStreakNum=EB8C0F" alt="pedroansdev" />
+      <img width="815px" src="https://github-readme-activity-graph.cyclic.app/graph?username=pedroansdev&bg_color=151515&color=ffffff&line=eb5454&point=eb8c0f&area=true&hide_border=false&area_color=eb5454&title_color=eb5454"/>
+
   </a>
 </div>
 
