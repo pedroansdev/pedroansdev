@@ -36,7 +36,10 @@
 
 <details>
   <summary> Um pouco mais sobre mim </summary>
-<br> <p align="center"> Eu sou o Pedro, e estou cursando Desenvolvimento de Software Multiplataformas na FATEC Jessen Vidal, e atualmente estou no 1º Semestre. </p> <br> 
+<br> 
+  <p align="center"> Eu sou o Pedro, e estou cursando Desenvolvimento de Software Multiplataformas na FATEC Jessen Vidal, e atualmente estou no 1º Semestre. </p> <br> 
 
-<p> As linguagens que estou aprendendo estão listadas abaixo do <i> GitHub Status </i>, e os programas que utilizo são: Visual Studio Code, brModelo e a versão do python que eu utilizo é o Python 3.11.2. <br><br>Também estou aprendendo sobre redes e Sistemas Operacionais, utilizando o prompt de comando do windows e aprendendo também conexões SSH e FTP com servidores em nuvem, na AWS. Também comecei a aprender um pouco sobre <i> Docker </i> e estarei atualizando o <a href="https://github.com/pedroansdev/DevWeb-Desafio3">DevWeb-Desafio3</a> utilizando do <i> Docker-Compose </i>. O servidor que atualmente utilizo para fazer esse tipo de trabalho é o Ubuntu Server 22.04. </p>
+  <p> As linguagens que estou aprendendo estão listadas abaixo do <i> GitHub Status </i>, e os programas que utilizo são: Visual Studio Code e Python IDLE e a versão do Python que eu utilizo é a 3.11.2. 
+  
+  <br><br>Também estou aprendendo sobre redes e Sistemas Operacionais, comecei a aprender um pouco sobre <i> Docker </i> e estarei atualizando o <a href="https://github.com/pedroansdev/DevWeb-Desafio3">DevWeb-Desafio3</a> utilizando do <i> Docker-Compose </i>. O servidor que atualmente utilizo para fazer esse tipo de trabalho é o Ubuntu Server 22.04. Posteriormente também postarei meu Portfolio Pessoal no servidor Vercel e fazer o deploy do mesmo. </p>
 </details>
